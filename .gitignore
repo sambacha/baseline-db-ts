@@ -1,3 +1,7 @@
+.zip
+*.zip
+*.tar.gz
+*.tgz
 .DS_Store
 wwwroot/*.js
 node_modules
